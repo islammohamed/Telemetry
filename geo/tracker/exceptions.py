@@ -1,0 +1,2 @@
+class RouteLenCantNotBeCalculated(ValueError):
+    pass
