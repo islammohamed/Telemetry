@@ -1,5 +1,3 @@
-# Code test
-
 ## GPS Tracker
 This application is providing a simple functionality to track GPS, provide simple Restful API.
 
